@@ -2,24 +2,7 @@
 
 Объектно-ориентированная библиотека для выполнения операций линейной алгебры на языке Java. Проект предоставляет удобные классы для работы с векторами (2D, 3D, 4D) и матрицами (3x3, 4x4), реализуя основные математические операции, необходимые для компьютерной графики, машинного обучения и инженерных расчетов.
 
-## Структура проекта
-src/main/java/com/yourcompany/math/
-├── vector/
-│ ├── Vector2.java
-│ ├── Vector3.java
-│ └── Vector4.java
-└── matrix/
-├── Matrix3x3.java
-└── Matrix4x4.java
 
-src/test/java/com/yourcompany/math/
-├── vector/
-│ ├── Vector2Test.java
-│ ├── Vector3Test.java
-│ └── Vector4Test.java
-└── matrix/
-├── Matrix3x3Test.java
-└── Matrix4x4Test.java
 
 text
 
